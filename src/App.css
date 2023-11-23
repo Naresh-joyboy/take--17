@@ -6,7 +6,35 @@
 .me-auto:hover{
     color:rgb(15, 236, 126);
 }
-.imgg1 , .imgg2, .imgg3, .imgg4, .imgg5{
+.imgg1 {
+    margin: auto;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+   
+}
+ .imgg2{
+    margin: auto;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+   
+}
+.imgg3{
+    margin: auto;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+   
+}
+.imgg4{
+    margin: auto;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+   
+}
+.imgg5{
     margin: auto;
     padding: 40px;
     display: flex;
