@@ -27,7 +27,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<All />}></Route>
-          <Route path='/Fsd' element={<Fsd />}></Route>
+          <Route path='/Fsd' element={<All />}></Route>
           <Route path='/Datas' element={<Datas />}></Route>
           <Route path='/Cyber' element={<Cyber />}></Route>
           <Route path='/Career' element={<Career />}></Route>
