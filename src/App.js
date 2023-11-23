@@ -15,8 +15,8 @@ function App() {
       <Navbar bg="light" data-bs-theme="light">
         <Container>
           <Nav className="me-auto">
-            <Nav.Link href="/">ALL</Nav.Link>
-            <Nav.Link href="/Fsd">FULL STACK DEVELOPMENT</Nav.Link>
+            <Nav.Link href="/Fsd">ALL</Nav.Link>
+            <Nav.Link href="/">FULL STACK DEVELOPMENT</Nav.Link>
             <Nav.Link href="/Datas">DATA SCIENCE</Nav.Link>
             <Nav.Link href="/Cyber">CYBER SECURITY</Nav.Link>
             <Nav.Link href="/Career">CAREER</Nav.Link>
