@@ -1,0 +1,20 @@
+.me-auto{
+    margin: auto;
+    font-weight: 550;
+    display: flex;
+}
+.me-auto:hover{
+    color:rgb(15, 236, 126);
+}
+.imgg1 , .imgg2, .imgg3, .imgg4, .imgg5{
+    margin: auto;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+   
+}
+.imggs{
+    background-color: rgb(239, 244, 244);
+    margin: 10px;
+    padding:5px;
+}
